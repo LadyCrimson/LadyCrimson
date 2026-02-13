@@ -83,6 +83,7 @@ Sou Ravenna Strange Morningstar, tenho 21 anos e atualmente sou um vislumbre de 
 <br/>
 <br/>
 
+### 📊 Estatísticas
 <p>
     <img
         align="left" 
